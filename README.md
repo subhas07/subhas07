@@ -73,9 +73,9 @@
 ✅ Streamlit deployment  
 ✅ Business-focused churn analysis  
 
-🔗 GitHub Repo: [Repository Link]([YOUR_GITHUB_LINK](https://github.com/subhas07/AI-Customer-Churn-Prediction))
+🔗 GitHub Repo: [Repository Link](https://github.com/subhas07/AI-Customer-Churn-Prediction)
 
-🚀 Live Demo: [Open App]([YOUR_DEPLOYMENT_LINK](https://ai-customer-churn-prediction-dtvxrzdungheehvsvwvsht.streamlit.app/))
+🚀 Live Demo: [Open App](https://ai-customer-churn-prediction-dtvxrzdungheehvsvwvsht.streamlit.app/)
 
 ---
 
@@ -90,7 +90,7 @@
 
 🔗 GitHub Repo: [Repository Link](https://github.com/subhas07/breast-cancer-explainable-ai)
 
-🚀 Live Demo: [Open App]([YOUR_DEPLOYMENT_LINK](https://breast-cancer-explainable-ai-kume62pgppqhxvckqstu9m.streamlit.app/))
+🚀 Live Demo: [Open App](https://breast-cancer-explainable-ai-kume62pgppqhxvckqstu9m.streamlit.app/)
 
 ---
 
@@ -103,7 +103,7 @@
 ✅ Real-time emotion prediction  
 ✅ Interactive Streamlit interface  
 
-🔗 GitHub Repo: [Repository Link]([YOUR_GITHUB_LINK](https://github.com/subhas07/Emotion-Detection-NLP-Project))
+🔗 GitHub Repo: [Repository Link](https://github.com/subhas07/Emotion-Detection-NLP-Project)
 
 ---
 
