@@ -123,8 +123,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=subhas07&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhas07&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhas07&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ## 🌐 Connect With Me
