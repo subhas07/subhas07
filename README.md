@@ -1,44 +1,46 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Subhas%20Chakraborty&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Subhas%20Chakraborty&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%2FML%20Engineer%20|%20Building%20Intelligent%20Solutions&descAlignY=55" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Subhas Chakraborty</h1>
 
 <h3 align="center">
-Aspiring AI/ML Engineer | Machine Learning • NLP • Explainable AI • Streamlit
+Aspiring AI/ML Engineer • Machine Learning • NLP • Explainable AI • Data Analytics
 </h3>
 
 <p align="center">
-Passionate about building end-to-end intelligent solutions that solve real-world problems using Machine Learning, Data Analytics, and Explainable AI.
+Passionate about transforming data into intelligent solutions through Machine Learning, NLP, and Explainable AI.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Engineer;Machine+Learning+Enthusiast;Python+Developer;NLP+%7C+Explainable+AI;Data+Analytics+Practitioner;Building+End-to-End+ML+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+AI%2FML+Engineer;Machine+Learning+Enthusiast;Python+Developer;Data+Science+Practitioner;NLP+%7C+Explainable+AI;Building+End-to-End+ML+Applications" />
 </p>
 
+---
+
+## 👀 Profile Visitors & Followers
+
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=subhas07">
-    <img src="https://komarev.com/ghpvc/?username=subhas07&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=subhas07.subhas07&left_text=Profile%20Views" />
 
   <a href="https://github.com/subhas07?tab=followers">
     <img src="https://img.shields.io/github/followers/subhas07?label=Followers&style=for-the-badge&color=blue" />
   </a>
 
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20AI%2FML%20Roles-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Internships%20%26%20Roles-success?style=for-the-badge" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🌱 Currently learning **Machine Learning, Deep Learning, NLP, and Explainable AI**
-- 💻 Building **end-to-end AI/ML applications with deployment**
-- 📊 Passionate about **Data Science, Predictive Analytics, and Business Problem Solving**
-- ⚡ Skilled in **Python, SQL, Pandas, NumPy, Scikit-learn, Streamlit**
+- 🌱 Currently learning **Deep Learning, NLP & Explainable AI**
+- 💻 Building **end-to-end AI/ML applications**
+- 📊 Passionate about **Data Science & Predictive Analytics**
+- ⚡ Skilled in **Python, SQL, Java, Scikit-learn & Streamlit**
 - 🔍 Exploring **SHAP and Model Explainability**
 - 🎯 Goal: Become an **AI/ML Engineer**
-- 🤝 Open to **Internships, Freelance Projects, and Entry-Level AI/ML Opportunities**
+- 🤝 Open to **Internships, Freelance Projects, and Entry-Level Opportunities**
 
 ---
 
@@ -58,22 +60,17 @@ Passionate about building end-to-end intelligent solutions that solve real-world
 ## 👨‍💻 Programming Languages & Databases
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,postgresql" />
 </p>
-
----
 
 ## 📊 Data Science & Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=sklearn" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
 </p>
 
 ### Machine Learning Skills
@@ -89,21 +86,17 @@ Passionate about building end-to-end intelligent solutions that solve real-world
 
 ### Explainable AI
 
-- SHAP (SHapley Additive Explanations)
-- Model Interpretation
+- SHAP
 - Feature Importance Analysis
+- Model Interpretation
 
 ---
 
 ## 🚀 Deployment & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit" />
 </p>
 
 ---
@@ -112,17 +105,17 @@ Passionate about building end-to-end intelligent solutions that solve real-world
 
 ## 🔹 AI-Powered Customer Churn Prediction
 
-📌 Predict customer churn using Machine Learning and Explainable AI.
+Predict customer churn using Machine Learning and Explainable AI.
 
 ### Features
 
 - ✅ Data preprocessing & feature engineering
 - ✅ Random Forest classifier
-- ✅ SHAP explainability integration
+- ✅ SHAP explainability
 - ✅ Streamlit deployment
 - ✅ Business-focused churn analysis
 
-🔗 GitHub Repository:
+🔗 Repository:
 https://github.com/subhas07/AI-Customer-Churn-Prediction
 
 🚀 Live Demo:
@@ -132,17 +125,16 @@ https://ai-customer-churn-prediction-dtvxrzdungheehvsvwvsht.streamlit.app/
 
 ## 🔹 Breast Cancer Prediction System
 
-📌 Healthcare ML application for predicting breast cancer diagnosis.
+Healthcare ML application for predicting breast cancer diagnosis.
 
 ### Features
 
-- ✅ Classification ML models
-- ✅ Data visualization & preprocessing
+- ✅ Classification models
+- ✅ Data visualization
 - ✅ Model evaluation
-- ✅ Real-time prediction
 - ✅ Streamlit deployment
 
-🔗 GitHub Repository:
+🔗 Repository:
 https://github.com/subhas07/breast-cancer-explainable-ai
 
 🚀 Live Demo:
@@ -152,38 +144,68 @@ https://breast-cancer-explainable-ai-kume62pgppqhxvckqstu9m.streamlit.app/
 
 ## 🔹 NLP Emotion Detection
 
-📌 NLP application for detecting emotions from text inputs.
+Detect emotions from user text inputs.
 
 ### Features
 
-- ✅ Text preprocessing & vectorization
-- ✅ NLP classification model
-- ✅ Real-time emotion prediction
-- ✅ Interactive Streamlit interface
+- ✅ Text preprocessing
+- ✅ NLP classification
+- ✅ Real-time predictions
+- ✅ Interactive UI
 
-🔗 GitHub Repository:
+🔗 Repository:
 https://github.com/subhas07/Emotion-Detection-NLP-Project
 
 ---
 
 # 🏆 Achievements
 
-- 🏅 Developed **3+ end-to-end AI/ML applications**
-- 🏅 Deployed ML solutions using **Streamlit Cloud**
-- 🏅 Implemented **SHAP-based Explainable AI**
-- 🏅 Built NLP applications for text classification
-- 🏅 Solved business-oriented prediction problems
+- 🏅 Built **3+ end-to-end AI/ML applications**
+- 🏅 Deployed applications using **Streamlit Cloud**
+- 🏅 Implemented **Explainable AI using SHAP**
+- 🏅 Developed NLP-based applications
+- 🏅 Solved business-focused prediction problems
 
 ---
 
-# 📜 Certifications
+# 📜 Licenses & Certifications
 
-> Add your certifications here.
+### 🎓 Data Analyst Bootcamp 2026
+- Issued by: **Alexander Freberg**
+- Issued: **May 2026**
+- Skills: Machine Learning, Python, Data Analysis, SQL
 
-- Google Data Analytics Professional Certificate
-- Machine Learning Specialization – Andrew Ng
-- SQL (Intermediate)
-- Python for Data Science
+---
+
+### 🤖 Generative AI for Beginners
+- Issued by: **Udemy**
+- Issued: **May 2026**
+- Credential ID: `UC-c61deac7-215d-4ff6-b030-fb12f25b555a`
+- Skills: Artificial Intelligence (AI)
+
+---
+
+### ☕ Java Programming Masterclass – Beginner to Master
+- Issued by: **Udemy**
+- Issued: **May 2026**
+- Credential ID: `UC-b0d2541a-119f-4a0f-b755-b6914d44ab6f`
+- Skills: Java
+
+---
+
+### 🧠 Complete A.I. & Machine Learning, Data Science Bootcamp
+- Issued by: **Udemy**
+- Issued: **May 2026**
+- Credential ID: `UC-dab6bb48-82a7-49e1-89f3-8b2a103fb942`
+- Skills: Machine Learning, Artificial Intelligence
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=subhas07&theme=algolia&row=1&column=7&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
@@ -194,9 +216,17 @@ https://github.com/subhas07/Emotion-Detection-NLP-Project
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhas07&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=subhas07&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=subhas07&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+# 📊 Contribution Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhas07&theme=tokyo-night" />
@@ -204,17 +234,52 @@ https://github.com/subhas07/Emotion-Detection-NLP-Project
 
 ---
 
-# 🤝 Open to Opportunities
+# 🐍 Contribution Snake Animation
 
-I am actively seeking:
+> Create the snake animation using GitHub Actions (instructions below).
 
-- AI/ML Engineer Internships
-- Data Science Internships
-- Machine Learning Projects
-- Entry-Level AI/ML Roles
-- Freelance Opportunities
+<p align="center">
+  <img src="https://raw.githubusercontent.com/subhas07/subhas07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
-Feel free to connect with me!
+### Snake Animation Setup
+
+Create:
+
+```
+.github/workflows/snake.yml
+```
+
+Use:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: subhas07
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
 ---
 
@@ -236,10 +301,14 @@ Feel free to connect with me!
 
 # 💡 Quote
 
-> "Turning data into insights and ideas into intelligent solutions."
+> **"Turning data into insights and ideas into intelligent solutions."**
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider giving a star to my repositories!
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 </p>
