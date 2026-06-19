@@ -201,14 +201,6 @@ https://github.com/subhas07/Emotion-Detection-NLP-Project
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhas07&theme=algolia&row=1&column=7&margin-w=15&margin-h=15" />
-</p>
-
----
-
 # 📈 GitHub Statistics
 
 <p align="center">
@@ -231,55 +223,6 @@ https://github.com/subhas07/Emotion-Detection-NLP-Project
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhas07&theme=tokyo-night" />
 </p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-> Create the snake animation using GitHub Actions (instructions below).
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/subhas07/subhas07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-### Snake Animation Setup
-
-Create:
-
-```
-.github/workflows/snake.yml
-```
-
-Use:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: subhas07
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 ---
 
