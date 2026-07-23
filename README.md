@@ -300,7 +300,7 @@ https://github.com/subhas07/Travel-and-Tourism-Website
 # 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhas07&theme=redical"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhas07&theme=radical"/>
 </p>
 
 ---
