@@ -269,42 +269,6 @@ https://github.com/subhas07/Travel-and-Tourism-Website
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=subhas07&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=subhas07&show_icons=true&theme=radical&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhas07&layout=compact&theme=radical&hide_border=true" height="180"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=subhas07&theme=radical&hide_border=true"/>
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhas07&theme=radical"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
