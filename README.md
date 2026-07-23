@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Subhas Chakraborty
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Subhas%20Chakraborty&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%2FML%20Engineer%20|%20Building%20Intelligent%20Solutions&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:FF0080,100:FF8C00&height=240&section=header&text=Subhas%20Chakraborty&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%2FML%20Engineer%20|%20Building%20Intelligent%20Solutions&descAlignY=55"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Subhas Chakraborty</h1>
@@ -15,7 +15,7 @@ Passionate about building intelligent systems that solve real-world problems usi
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Aspiring+AI%2FML+Engineer;Machine+Learning+Enthusiast;Python+Developer;Data+Science+Practitioner;NLP+%7C+Explainable+AI;Power+BI+Developer;Building+End-to-End+AI+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF4081&center=true&vCenter=true&width=850&lines=Aspiring+AI%2FML+Engineer;Machine+Learning+Enthusiast;Python+Developer;Data+Science+Practitioner;NLP+%7C+Explainable+AI;Power+BI+Developer;Building+End-to-End+AI+Applications"/>
 </p>
 
 ---
@@ -23,13 +23,13 @@ Passionate about building intelligent systems that solve real-world problems usi
 ## 👀 Profile Visitors & Followers
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=subhas07.subhas07&left_text=Profile%20Views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=subhas07.subhas07&left_text=Profile%20Views&color=orange"/>
 
   <a href="https://github.com/subhas07?tab=followers">
-    <img src="https://img.shields.io/github/followers/subhas07?label=Followers&style=for-the-badge&color=blue"/>
+    <img src="https://img.shields.io/github/followers/subhas07?label=Followers&style=for-the-badge&color=FF0080&logoColor=white"/>
   </a>
 
-  <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Internships%20%26%20Full-Time%20Roles-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Internships%20%26%20Full--Time%20Roles-FF6F00?style=for-the-badge"/>
 </p>
 
 ---
@@ -63,7 +63,7 @@ Passionate about building intelligent systems that solve real-world problems usi
 ## 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql,postgresql,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,postgresql,html,css&theme=dark"/>
 </p>
 
 ---
@@ -72,17 +72,17 @@ Passionate about building intelligent systems that solve real-world problems usi
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=sklearn"/>
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Pandas-8E2DE2?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/NumPy-FF0080?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-00C9A7?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </p>
 
@@ -130,9 +130,9 @@ Passionate about building intelligent systems that solve real-world problems usi
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark"/>
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 </p>
 
@@ -272,7 +272,7 @@ https://github.com/subhas07/Travel-and-Tourism-Website
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=subhas07&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=subhas07&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -281,9 +281,9 @@ https://github.com/subhas07/Travel-and-Tourism-Website
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subhas07&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=subhas07&show_icons=true&theme=radical&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhas07&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhas07&layout=compact&theme=radical&hide_border=true" height="180"/>
 
 </p>
 
@@ -292,7 +292,7 @@ https://github.com/subhas07/Travel-and-Tourism-Website
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=subhas07&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=subhas07&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -300,7 +300,7 @@ https://github.com/subhas07/Travel-and-Tourism-Website
 # 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhas07&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhas07&theme=redical"/>
 </p>
 
 ---
@@ -310,15 +310,15 @@ https://github.com/subhas07/Travel-and-Tourism-Website
 <p align="left">
 
 <a href="https://www.linkedin.com/in/subhas-chakraborty-553796295/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:subhaschakraborty104@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/subhas07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -336,5 +336,5 @@ https://github.com/subhas07/Travel-and-Tourism-Website
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF0080,100:8E2DE2&height=120&section=footer"/>
 </p>
